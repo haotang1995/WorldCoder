@@ -1,0 +1,7 @@
+**__pycache__**
+*.pyc
+experiment_outputs
+subs
+*.db
+*.DS_Store
+
