@@ -16,7 +16,7 @@ We give a model-based agent that builds a Python program representing its knowle
 ```
 pip install -r requirements.txt
 ```
-Note that the codes were implemented with the old numpy, gymnasium, and minigrid. They are adapted to e.g., the new `__str__` in numpy >= 2.0. Please check requirements.txt for details. 
+Note that the codes were implemented with the old numpy, gymnasium, and minigrid. They are not adapted to e.g., the new `__str__` in numpy >= 2.0. Please check requirements.txt for details. 
 
 ## Run the agent and the experiments 
 ```
